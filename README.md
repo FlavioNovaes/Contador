@@ -21,9 +21,9 @@ Este projeto foi desenvolvido com base nas aulas do Curso em Vídeo, ministradas
 
 ## 🚀 Funcionalidades
 - Permite definir:
-🔹 Número inicial
-🔹 Número final
-🔹 Passo da contagem
+- Número inicial
+- Número final
+- Passo da contagem
 
 - Realiza contagem automática:
 - 📈 Crescente
