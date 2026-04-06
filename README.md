@@ -11,12 +11,12 @@ Este projeto foi desenvolvido com base nas aulas do Curso em Vídeo, ministradas
 
 ---
 
-##🖼️ Preview do Projeto
+## 🖼️ Preview do Projeto
 
-###📈 Contagem Crescente
+### 📈 Contagem Crescente
 ![Crescente](contagem-crescente.png)
 
-###📉 Contagem Regressiva
+### 📉 Contagem Regressiva
 ![Regressiva](contagem-regressiva.png)
 
 ## 🚀 Funcionalidades
