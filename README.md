@@ -20,7 +20,6 @@ Este projeto foi desenvolvido com base nas aulas do Curso em Vídeo, ministradas
 ![Regressiva](contagem-regressiva.png)
 
 ## 🚀 Funcionalidades
-
 - Permite definir:
 - Número inicial
 - Número final
